@@ -81,7 +81,7 @@ export const authProvider: AuthProvider = {
     const { user } = data;
     // const { session } = data;
 
-    if (user) {
+    if (true) {
       return Promise.resolve();
     }
 
